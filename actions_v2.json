@@ -1,0 +1,16 @@
+{
+  "actions": [
+    "hello",
+    "mk",
+    "my",
+    "name is",
+    "nice",
+    "to meet",
+    "you",
+    "thank you",
+    "Goodbye"
+  ],
+  "model_type": "sequence",
+  "seq_len": 30,
+  "features": 132
+}
